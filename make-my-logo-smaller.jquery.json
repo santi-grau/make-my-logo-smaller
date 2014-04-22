@@ -1,0 +1,26 @@
+{
+  "name": "make-my-logo-smaller",
+  "version": "1.0.0",
+  "title": "Make my logo smaller!",
+  "description": "This (conceptual) jquery plugin will change a set of css properties (see below) from a specific selector (or set of selectors) during a specific amount of time (days).",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "change",   
+    "dom"
+  ],
+  "author": {
+    "name": "Jacobo Gris",
+    "url": "http://jacobogris.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jstayton/jquery-manifest/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.5"
+  },
+  "docs": "https://github.com/santi-grau/make-my-logo-smaller/blob/master/README.md"
+}
